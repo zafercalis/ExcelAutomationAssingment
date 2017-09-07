@@ -37,10 +37,14 @@ public class CalculatorTest {
 
 		// practice is good always
 		// still trying here :)
+		// trying to push changes;
 		System.out.println("dilek change");
 		System.out.println("second try from Dilek");
 		System.out.println("Hello every one zzzz");
 
+		// <<<<<<< HEAD
+		// you need to delete and import again
+		// =======
 		// <<<<<<< HEAD
 		System.out.println("hello from osman");
 		System.out.println("Hello guys");
@@ -54,6 +58,9 @@ public class CalculatorTest {
 
 		// this is pedro this is my first time commiting
 		System.out.println("hello world");
+		// >>>>>>> branch 'master' of https:
+		// github.com/Zaferny/ExcelAutomationAssingment.git
+		System.out.println("added a printline");
 
 	}
 
