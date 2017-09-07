@@ -30,12 +30,12 @@ public class CalculatorTest {
 
 		// practice is good always
 		// still trying here :)
-		// added a comment;
+		// trying to push changes
 		System.out.println("dilek change");
 		System.out.println("second try from Dilek");
 		System.out.println("Hello every one zzzz");
-		
-	// you need to delete and import again
+
+		// you need to delete and import again
 
 	}
 
