@@ -20,7 +20,7 @@ public class CalculatorTest {
 		System.out.println(Calculator.Operate("addition", 7, 2.1));
 
 		System.out.println(Calculator.Operate("subtraction", 3.5, 0));
-		System.out.println("Meerim");
+		System.out.println("Meerim's commit");
 	}
 
 }
