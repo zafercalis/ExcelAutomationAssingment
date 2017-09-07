@@ -34,7 +34,7 @@ public class CalculatorTest {
 		System.out.println("second try from Dilek");
 		System.out.println("Hello every one zzzz");
 		
-		System.out.println("hello from osman");
+	// you need to delete and import again
 
 	}
 
