@@ -14,16 +14,23 @@ public class CalculatorTest {
 		System.out.println(Calculator.Operate("multiplication", 7, 2.1));
 
 		System.out.println(Calculator.Operate("division", 3.5, 0));
+		
+		System.out.println("Zafer new changes! ");
 
 		System.out.println(Calculator.Operate("addition", 7, 2.1));
 
 		System.out.println(Calculator.Operate("subtraction", 3.5, 0));
 		// Changes made by Zafer on 9/7/2017
 		// just for practice
+//<<<<<<< HEAD
+		//change
+		
+//=======
 		//
 
 		// let's try again
 
+//>>>>>>> branch 'master' of https://github.com/Zaferny/ExcelAutomationAssingment.git
 		/*
 		 * we like to collaborate
 		 */
@@ -56,8 +63,15 @@ public class CalculatorTest {
 //=======
 		// >>>>>>> branch 'master' of https:
 		// github.com/Zaferny/ExcelAutomationAssingment.git
+///<<<<<<< HEAD
 		System.out.println("added a printlineKKKKKKKKKKKKKKKKKKKKKKK");
 //>>>>>>> branch 'master' of https://github.com/Zaferny/ExcelAutomationAssingment.git
+///=======
+		System.out.println("added a printline");
+		System.out.println("added a printline 2");
+		
+		//watch the video https://www.youtube.com/watch?v=M88sKbRDR8Y 
+///>>>>>>> branch 'master' of https://github.com/Zaferny/ExcelAutomationAssingment.git
 
 	}
 
