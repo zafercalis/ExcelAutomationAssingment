@@ -22,6 +22,7 @@ public class Calculator {
 				System.out.println("Dividing number is 0!");
 			break;
 		}
+		// it is my first comment))
 		return result;
 	}
 }
