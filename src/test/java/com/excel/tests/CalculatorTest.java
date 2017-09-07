@@ -35,7 +35,25 @@ public class CalculatorTest {
 		System.out.println("second try from Dilek");
 		System.out.println("Hello every one zzzz");
 
+		// <<<<<<< HEAD
 		// you need to delete and import again
+		// =======
+		// <<<<<<< HEAD
+		System.out.println("hello from osman");
+		System.out.println("Hello guys");
+		// that thing is confusing
+
+		// =======
+		// you need to delete and import again
+
+		// >>>>>>> branch 'master' of
+		// https://github.com/Zaferny/ExcelAutomationAssingment.git
+
+		// this is pedro this is my first time commiting
+		System.out.println("hello world");
+		// >>>>>>> branch 'master' of https:
+		// github.com/Zaferny/ExcelAutomationAssingment.git
+		System.out.println("added a printline");
 
 	}
 
