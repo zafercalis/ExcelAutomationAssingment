@@ -20,24 +20,8 @@ public class CalculatorTest {
 		System.out.println(Calculator.Operate("addition", 7, 2.1));
 
 		System.out.println(Calculator.Operate("subtraction", 3.5, 0));
-		// Changes made by Zafer on 9/7/2017
-		// just for practice
-//<<<<<<< HEAD
-		//change
 		
-//=======
-		//
 
-		// let's try again
-
-//>>>>>>> branch 'master' of https://github.com/Zaferny/ExcelAutomationAssingment.git
-		/*
-		 * we like to collaborate
-		 */
-
-		// practice is good always
-		// still trying here :)
-		// trying to push changes;
 		System.out.println("dilek change");
 
 		System.out.println("it worksss from Dilek");
@@ -48,24 +32,21 @@ public class CalculatorTest {
 	
 		System.out.println("hello from osman");
 		System.out.println("Hello guys");
-		// that thing is confusing
 
-		// =======
-		// you need to delete and import again
-
-		// >>>>>>> branch 'master' of
-		// https://github.com/Zaferny/ExcelAutomationAssingment.git
-
-		// this is pedro this is my first time commiting
 		System.out.println("hello world");
-		// >>>>>>> branch 'master' of https:
-		// github.com/Zaferny/ExcelAutomationAssingment.git
+
+		System.out.println("hello world22 musa aGAIN");
+
+
+		System.out.println("added a printlineKKKKKKKKKKKKKKKKKKKKKKK");
+
 		System.out.println("added a printline");
 		System.out.println("added a printline 2");
-		System.out.println("added a printline 3");
+		
 
 
 
+		System.out.println("last try Dilek");
 
 	}
 
