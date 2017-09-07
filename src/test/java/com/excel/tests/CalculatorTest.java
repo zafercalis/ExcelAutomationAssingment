@@ -62,9 +62,8 @@ public class CalculatorTest {
 		// github.com/Zaferny/ExcelAutomationAssingment.git
 		System.out.println("added a printline");
 		System.out.println("added a printline 2");
-		System.out.println("added a printline 3");
-
-
+		
+		//watch the video https://www.youtube.com/watch?v=M88sKbRDR8Y 
 
 	}
 
