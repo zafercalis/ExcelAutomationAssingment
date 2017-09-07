@@ -15,6 +15,8 @@ public class CalculatorTest {
 		System.out.println(Calculator.Operate("multiplication",7, 2.1));
 
 		System.out.println(Calculator.Operate("division", 3.5, 0));
+		
+		System.out.println("Zafer new changes!");
 
 		
 	}
