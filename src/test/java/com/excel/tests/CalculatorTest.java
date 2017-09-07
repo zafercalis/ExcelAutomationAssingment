@@ -34,10 +34,15 @@ public class CalculatorTest {
 		System.out.println("second try from Dilek");
 		System.out.println("Hello every one zzzz");
 		
+<<<<<<< HEAD
 		System.out.println("hello from osman");
 		System.out.println("Hello guys");
+		// that thing is confusing
 		
-		
-	}
+=======
+	// you need to delete and import again
 
+>>>>>>> branch 'master' of https://github.com/Zaferny/ExcelAutomationAssingment.git
+	}
+  
 }
