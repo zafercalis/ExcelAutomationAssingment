@@ -23,6 +23,7 @@ public class CalculatorTest {
 		System.out.println(Calculator.Operate("subtraction", 3.5, 0));
 		// Changes made by Zafer on 9/7/2017
 		// just for practice
+		//change
 		
 	}
 
