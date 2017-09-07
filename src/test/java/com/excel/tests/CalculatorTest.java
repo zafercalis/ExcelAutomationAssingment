@@ -18,6 +18,10 @@ public class CalculatorTest {
 		
 		System.out.println("Zafer new changes! ");
 
+		System.out.println(Calculator.Operate("addition",7, 2.1));
+
+		System.out.println(Calculator.Operate("subtraction", 3.5, 0));
+		// Changes made by Zafer on 9/7/2017
 		
 	}
 
