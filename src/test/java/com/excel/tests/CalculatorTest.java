@@ -30,6 +30,7 @@ public class CalculatorTest {
 
 		// practice is good always
 		// still trying here :)
+		// added a comment;
 		System.out.println("dilek change");
 		System.out.println("second try from Dilek");
 		System.out.println("Hello every one");
